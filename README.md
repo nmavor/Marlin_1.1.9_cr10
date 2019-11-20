@@ -7,3 +7,7 @@ working on the follow
 3) upgrade to MKS Gen L
 4) replace LCD
 5) add BLtouch
+
+stl :
+https://www.thingiverse.com/thing:3543709
+https://www.thingiverse.com/thing:2747280
